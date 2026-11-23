@@ -1,0 +1,110 @@
+=========================================
+SLURM_JOB_ID = 120398
+SLURM_JOB_NODELIST = node210-16
+SLURM_CPUS_ON_NODE = 2
+SLURM_JOB_PARTITION = AMD9554
+SLURM_TASK_PID = 1724640
+==========================================
+Steps 100, save every 1 step.
+Field size: 10x10
+Loaded 5 life cells.
+Saving step 0 to 'life_000000.vtk'.
+Saving step 1 to 'life_000001.vtk'.
+Saving step 2 to 'life_000002.vtk'.
+Saving step 3 to 'life_000003.vtk'.
+Saving step 4 to 'life_000004.vtk'.
+Saving step 5 to 'life_000005.vtk'.
+Saving step 6 to 'life_000006.vtk'.
+Saving step 7 to 'life_000007.vtk'.
+Saving step 8 to 'life_000008.vtk'.
+Saving step 9 to 'life_000009.vtk'.
+Saving step 10 to 'life_000010.vtk'.
+Saving step 11 to 'life_000011.vtk'.
+Saving step 12 to 'life_000012.vtk'.
+Saving step 13 to 'life_000013.vtk'.
+Saving step 14 to 'life_000014.vtk'.
+Saving step 15 to 'life_000015.vtk'.
+Saving step 16 to 'life_000016.vtk'.
+Saving step 17 to 'life_000017.vtk'.
+Saving step 18 to 'life_000018.vtk'.
+Saving step 19 to 'life_000019.vtk'.
+Saving step 20 to 'life_000020.vtk'.
+Saving step 21 to 'life_000021.vtk'.
+Saving step 22 to 'life_000022.vtk'.
+Saving step 23 to 'life_000023.vtk'.
+Saving step 24 to 'life_000024.vtk'.
+Saving step 25 to 'life_000025.vtk'.
+Saving step 26 to 'life_000026.vtk'.
+Saving step 27 to 'life_000027.vtk'.
+Saving step 28 to 'life_000028.vtk'.
+Saving step 29 to 'life_000029.vtk'.
+Saving step 30 to 'life_000030.vtk'.
+Saving step 31 to 'life_000031.vtk'.
+Saving step 32 to 'life_000032.vtk'.
+Saving step 33 to 'life_000033.vtk'.
+Saving step 34 to 'life_000034.vtk'.
+Saving step 35 to 'life_000035.vtk'.
+Saving step 36 to 'life_000036.vtk'.
+Saving step 37 to 'life_000037.vtk'.
+Saving step 38 to 'life_000038.vtk'.
+Saving step 39 to 'life_000039.vtk'.
+Saving step 40 to 'life_000040.vtk'.
+Saving step 41 to 'life_000041.vtk'.
+Saving step 42 to 'life_000042.vtk'.
+Saving step 43 to 'life_000043.vtk'.
+Saving step 44 to 'life_000044.vtk'.
+Saving step 45 to 'life_000045.vtk'.
+Saving step 46 to 'life_000046.vtk'.
+Saving step 47 to 'life_000047.vtk'.
+Saving step 48 to 'life_000048.vtk'.
+Saving step 49 to 'life_000049.vtk'.
+Saving step 50 to 'life_000050.vtk'.
+Saving step 51 to 'life_000051.vtk'.
+Saving step 52 to 'life_000052.vtk'.
+Saving step 53 to 'life_000053.vtk'.
+Saving step 54 to 'life_000054.vtk'.
+Saving step 55 to 'life_000055.vtk'.
+Saving step 56 to 'life_000056.vtk'.
+Saving step 57 to 'life_000057.vtk'.
+Saving step 58 to 'life_000058.vtk'.
+Saving step 59 to 'life_000059.vtk'.
+Saving step 60 to 'life_000060.vtk'.
+Saving step 61 to 'life_000061.vtk'.
+Saving step 62 to 'life_000062.vtk'.
+Saving step 63 to 'life_000063.vtk'.
+Saving step 64 to 'life_000064.vtk'.
+Saving step 65 to 'life_000065.vtk'.
+Saving step 66 to 'life_000066.vtk'.
+Saving step 67 to 'life_000067.vtk'.
+Saving step 68 to 'life_000068.vtk'.
+Saving step 69 to 'life_000069.vtk'.
+Saving step 70 to 'life_000070.vtk'.
+Saving step 71 to 'life_000071.vtk'.
+Saving step 72 to 'life_000072.vtk'.
+Saving step 73 to 'life_000073.vtk'.
+Saving step 74 to 'life_000074.vtk'.
+Saving step 75 to 'life_000075.vtk'.
+Saving step 76 to 'life_000076.vtk'.
+Saving step 77 to 'life_000077.vtk'.
+Saving step 78 to 'life_000078.vtk'.
+Saving step 79 to 'life_000079.vtk'.
+Saving step 80 to 'life_000080.vtk'.
+Saving step 81 to 'life_000081.vtk'.
+Saving step 82 to 'life_000082.vtk'.
+Saving step 83 to 'life_000083.vtk'.
+Saving step 84 to 'life_000084.vtk'.
+Saving step 85 to 'life_000085.vtk'.
+Saving step 86 to 'life_000086.vtk'.
+Saving step 87 to 'life_000087.vtk'.
+Saving step 88 to 'life_000088.vtk'.
+Saving step 89 to 'life_000089.vtk'.
+Saving step 90 to 'life_000090.vtk'.
+Saving step 91 to 'life_000091.vtk'.
+Saving step 92 to 'life_000092.vtk'.
+Saving step 93 to 'life_000093.vtk'.
+Saving step 94 to 'life_000094.vtk'.
+Saving step 95 to 'life_000095.vtk'.
+Saving step 96 to 'life_000096.vtk'.
+Saving step 97 to 'life_000097.vtk'.
+Saving step 98 to 'life_000098.vtk'.
+Saving step 99 to 'life_000099.vtk'.

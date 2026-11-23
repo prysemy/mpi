@@ -1,0 +1,80 @@
+=========================================
+SLURM_JOB_ID = 158418
+SLURM_JOB_NODELIST = node210-19
+SLURM_CPUS_ON_NODE = 32
+SLURM_JOB_PARTITION = AMD9554
+SLURM_TASK_PID = 1087478
+==========================================
+Running: rows, processes=1, repeat=1
+Running: rows, processes=1, repeat=2
+Running: rows, processes=1, repeat=3
+Running: rows, processes=2, repeat=1
+Running: rows, processes=2, repeat=2
+Running: rows, processes=2, repeat=3
+Running: rows, processes=4, repeat=1
+Running: rows, processes=4, repeat=2
+Running: rows, processes=4, repeat=3
+Running: rows, processes=8, repeat=1
+Running: rows, processes=8, repeat=2
+Running: rows, processes=8, repeat=3
+Running: rows, processes=16, repeat=1
+Running: rows, processes=16, repeat=2
+Running: rows, processes=16, repeat=3
+Running: rows, processes=32, repeat=1
+Running: rows, processes=32, repeat=2
+Running: rows, processes=32, repeat=3
+Running: cols, processes=1, repeat=1
+Running: cols, processes=1, repeat=2
+Running: cols, processes=1, repeat=3
+Running: cols, processes=2, repeat=1
+Running: cols, processes=2, repeat=2
+Running: cols, processes=2, repeat=3
+Running: cols, processes=4, repeat=1
+Running: cols, processes=4, repeat=2
+Running: cols, processes=4, repeat=3
+Running: cols, processes=8, repeat=1
+Running: cols, processes=8, repeat=2
+Running: cols, processes=8, repeat=3
+Running: cols, processes=16, repeat=1
+Running: cols, processes=16, repeat=2
+Running: cols, processes=16, repeat=3
+Running: cols, processes=32, repeat=1
+Running: cols, processes=32, repeat=2
+Running: cols, processes=32, repeat=3
+version,processes,repeat,time_s
+rows,1,1,0.000533
+rows,1,2,0.000572
+rows,1,3,0.000568
+rows,2,1,0.002997
+rows,2,2,0.002969
+rows,2,3,0.002971
+rows,4,1,0.004975
+rows,4,2,0.005018
+rows,4,3,0.004963
+rows,8,1,0.003522
+rows,8,2,0.003503
+rows,8,3,0.004911
+rows,16,1,0.003780
+rows,16,2,0.003789
+rows,16,3,0.003780
+rows,32,1,0.005821
+rows,32,2,0.004566
+rows,32,3,0.004932
+cols,1,1,0.855092
+cols,1,2,0.860492
+cols,1,3,0.858057
+cols,2,1,0.440721
+cols,2,2,0.441322
+cols,2,3,0.440552
+cols,4,1,0.221519
+cols,4,2,0.229016
+cols,4,3,0.225061
+cols,8,1,0.101772
+cols,8,2,0.101634
+cols,8,3,0.103467
+cols,16,1,0.061456
+cols,16,2,0.062207
+cols,16,3,0.060539
+cols,32,1,0.035832
+cols,32,2,0.034597
+cols,32,3,0.039425

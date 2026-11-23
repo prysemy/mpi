@@ -1,0 +1,8 @@
+=========================================
+SLURM_JOB_ID = 158411
+SLURM_JOB_NODELIST = node210-19
+SLURM_CPUS_ON_NODE = 2
+SLURM_JOB_PARTITION = AMD9554
+SLURM_TASK_PID = 1085763
+==========================================
+TIME RESULT: 0.439264 sec

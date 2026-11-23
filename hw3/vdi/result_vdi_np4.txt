@@ -1,0 +1,4 @@
+Steps 1000, save every 1 step.
+Field size: 300x128
+Loaded 50 life cells.
+TIME_RESULT: 0.636081 seconds
